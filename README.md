@@ -1,4 +1,4 @@
-# Real-Time Notification Service
+# Event-Notification-System
 
 This project demonstrates a real-time notification service using Spring Boot for the backend and React for the frontend. The service allows for real-time updates via WebSockets, ensuring that notifications are pushed to the client instantly.
 
@@ -20,4 +20,4 @@ This project demonstrates a real-time notification service using Spring Boot for
 
 ```bash
 git clone https://github.com/yourusername/Event-Notification-System.git
-cd realtime-notification-service
+cd Event-Notification-System

@@ -19,5 +19,5 @@ This project demonstrates a real-time notification service using Spring Boot for
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/realtime-notification-service.git
+git clone https://github.com/yourusername/Event-Notification-System.git
 cd realtime-notification-service
